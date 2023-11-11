@@ -22,6 +22,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dileepkumarboni&show_icons=true&locale=en&layout=compact" alt="dileepkumarboni" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dileepkumarboni&" alt="dileepkumarboni" /></p>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+
 
