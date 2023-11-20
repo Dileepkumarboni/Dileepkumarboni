@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dileepkumarboni&label=Profile%20views&color=0e75b6&style=flat" alt="dileepkumarboni" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Backend**
 
 - 📫 How to reach me **dileepkumarboni553@gmail.com**
 
